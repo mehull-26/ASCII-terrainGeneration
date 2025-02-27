@@ -56,8 +56,8 @@ A sample terrain output might look like this:
 ## **🚀 Future Improvements**  
 
  ✅ **Performance Optimization** (improve noise function efficiency)  
- ✅ **Smoother Terrain Generation** (better transitions)  
- ✅ **More Customization Options** (adjustable heightmaps, different characters, etc.)  
+ ✅ **Wish to expand it into a 3d model loader **
+ ✅ **More Customization Options**  
  ✅ **Export to File** (save terrain as `.txt` or `.png`)  
 
 
